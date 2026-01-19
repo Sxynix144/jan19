@@ -1,0 +1,35 @@
+
+img {
+
+    background-color: effff;
+    height: 200px;
+    width: 300px;
+}
+body {
+    font-family: "times new roman";
+    background-color: coral;
+    color: black;
+    line-height: 1.6;
+    text-align: center;
+}
+img{
+    background-color: aliceblue;
+    height: 200px;
+    width: 200px;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: blueviolet;
+    border-radius: 100px;
+}
+h1 {
+    font-size: 28px;
+}
+h2 {
+    font-size: 28px;
+}
+h3 {
+    font-size: 28px;
+}
+h4 {
+    font-size: 28px;
+}
