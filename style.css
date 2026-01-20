@@ -1,0 +1,22 @@
+td, th{
+    border: 3px solid black;
+    padding: 5px;
+    text-align: center;
+}
+table{
+    border: 3px solid black;
+}
+#username, #password, #email{
+background-color: aquamarine;
+border-radius: 23px;
+kerning: 3cap;
+}
+#desc{
+    background-color: aquamarine;
+    
+}
+#fruits{
+    background-color: aquamarine;
+    direction: ltr;
+    white-space: 20px;
+}
